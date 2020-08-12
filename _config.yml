@@ -6,4 +6,14 @@ exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "
 highlighter: rouge
 
 # Themes are encouraged to use these universal variables
-# so be sure to set them if your th
+# so be sure to set them if your theme uses them.
+#
+title : BMI 881 literature seminar
+author :
+  name : Karl Broman
+  email : kbroman@gmail.com
+  github : kbroman
+  twitter : kwbroman
+  feedburner : nil
+
+# NOTE: Repl
