@@ -16,4 +16,8 @@ author :
   twitter : kwbroman
   feedburner : nil
 
-# NOTE: Repl
+# NOTE: Replacing this next line with your own URL
+production_url : https://kbroman.github.io/BMI881_fall2021
+
+# Tell Github to use the kramdown markdown interpreter
+# (see https://help.github.com/articles/mi
