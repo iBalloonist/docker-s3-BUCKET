@@ -28,4 +28,6 @@ markdown: kramdown
 JB :
   version : 0.3.0
 
-  # All links
+  # All links will be namespaced by BASE_PATH if defined.
+  # Links in your website should always be prefixed with {{BASE_PATH}}
+  # however this value will be dynamically changed depending on your deploym
