@@ -37,4 +37,9 @@ JB :
   #   (urls will be prefixed with "/" and work relatively)
   #
   # GitHub Pages (http://username.github.io)
-  #   DO N
+  #   DO NOT SET BASE_PATH
+  #   (urls will be prefixed with "/" and work relatively)
+  #
+  # GitHub Project Pages (http://username.github.io/project-name)
+  #
+  #   A GitHub Project site exist
