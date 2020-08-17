@@ -49,4 +49,7 @@ JB :
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
-  #     This means always setting the protocol (
+  #     This means always setting the protocol (http|https) or prefixing with "/"
+  #
+  # NOTE: Replace this next line with your own URL, likely with username.github.io
+  BASE_PATH : https://kbroman.org/BMI881_fall2021
