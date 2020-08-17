@@ -53,3 +53,8 @@ JB :
   #
   # NOTE: Replace this next line with your own URL, likely with username.github.io
   BASE_PATH : https://kbroman.org/BMI881_fall2021
+
+  # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
+  # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
+  #
+  # Override this by defining an absolute path
