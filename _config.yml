@@ -46,4 +46,7 @@ JB :
   #  REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
   #
   # CAUTION:
-  #   - When in Localhost, your site will run from root "/" regardless
+  #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
+  #   - Only the following values are falsy: ["", null, false]
+  #   - When setting BASE_PATH it must be a valid url.
+  #     This means always setting the protocol (
