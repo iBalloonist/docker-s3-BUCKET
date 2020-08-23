@@ -57,4 +57,11 @@ JB :
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
   #
-  # Override this by defining an absolute path
+  # Override this by defining an absolute path to assets here.
+  # ex:
+  #   http://s3.amazonaws.com/yoursite/themes/watermelon
+  #   /assets
+  #
+  # ASSET_PATH : https://kbroman.org/BMI881_fall2021/assets/themes/twitter
+
+  # These paths are to the ma
