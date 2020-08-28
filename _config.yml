@@ -70,4 +70,11 @@ JB :
   archive_path: nil
   categories_path : nil
   tags_path : nil
-  atom_path :
+  atom_path : nil
+  rss_path : nil
+
+  # Settings for comments helper
+  # Set 'provider' to the comment provider you want to use.
+  # Set 'provider' to false to turn commenting off globally.
+  #
+  comm
