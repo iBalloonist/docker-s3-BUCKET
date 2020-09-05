@@ -3,4 +3,6 @@
   _gaq.push(['_setAccount', '{{ site.JB.analytics.google.tracking_id }}']);
   _gaq.push(['_trackPageview']);
 
-  (funct
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http
