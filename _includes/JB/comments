@@ -8,4 +8,9 @@
 {% when "intensedebate" %}
   {% include JB/comments-providers/intensedebate %}
 {% when "facebook" %}
-  {% include JB/comments-providers/fac
+  {% include JB/comments-providers/facebook %}
+{% when "custom" %}
+  {% include custom/comments %}
+{% endcase %}
+
+{% endif %}
