@@ -5,4 +5,6 @@
     {% if page.wordpress_id %}var disqus_identifier = '{{page.wordpress_id}} {{site.production_url}}/?p={{page.wordpress_id}}';{% endif %}
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
-        var dsq = document.createElement('script'); dsq.type = 
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.ge
