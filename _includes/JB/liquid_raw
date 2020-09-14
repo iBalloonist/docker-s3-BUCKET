@@ -3,4 +3,10 @@ The liquid_raw helper is a way to display raw liquid code, as opposed to parsing
 Normally you'd use Liquid's built in 'raw' tag. 
 The problem is GitHub Jekyll does not support the current Liquid release.
 GitHub Jekyll supports the deprecated 'literal' tag.
-Using one will break the other if you plan to deploy to G
+Using one will break the other if you plan to deploy to GitHub pages.
+  see: https://github.com/mojombo/jekyll/issues/425
+
+Since I don't want to mess with Liquid versions, I'll just rewrite the way I 
+intend to give liquid examples. It's not an elegant by any means:
+
+Usag
