@@ -18,4 +18,10 @@ Usage:
     <li><a href="|.{ site.var.tags_path }.||.{ tag[0] }.|-ref">|.{ tag[0] }.| <span>|.{tag[1].size}.|</span></a></li>
   |.% endfor %.|
 
-  |.% assign tags_list =
+  |.% assign tags_list = null %.|{% endcapture %}    
+  {% include JB/liquid_raw %}
+  
+  As seen here, you must use "|." and ".|" as opening and closing brackets.
+-->{% endcomment%}
+
+{% if site.JB.liquid_raw.provide
