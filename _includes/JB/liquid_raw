@@ -14,4 +14,8 @@ Usage:
   2) Pass the text variable to include JB/liquid_raw
 
   example:
-  {% capture text %}|.% for ta
+  {% capture text %}|.% for tag in tags_list %.|
+    <li><a href="|.{ site.var.tags_path }.||.{ tag[0] }.|-ref">|.{ tag[0] }.| <span>|.{tag[1].size}.|</span></a></li>
+  |.% endfor %.|
+
+  |.% assign tags_list =
