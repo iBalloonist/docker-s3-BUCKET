@@ -9,4 +9,9 @@ Using one will break the other if you plan to deploy to GitHub pages.
 Since I don't want to mess with Liquid versions, I'll just rewrite the way I 
 intend to give liquid examples. It's not an elegant by any means:
 
-Usag
+Usage: 
+  1) Define a 'text' variable with the block of liquid code you intend to display.
+  2) Pass the text variable to include JB/liquid_raw
+
+  example:
+  {% capture text %}|.% for ta
