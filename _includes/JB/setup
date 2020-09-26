@@ -10,4 +10,10 @@
       {% assign HOME_PATH = site.JB.BASE_PATH %}
     {% else %}
       {% assign BASE_PATH = nil %}
-      {% assign HOME_PATH
+      {% assign HOME_PATH = "/" %}
+    {% endif %}
+
+    {% if site.JB.ASSET_PATH %}
+      {% assign ASSET_PATH = site.JB.ASSET_PATH %}
+    {% else %}
+      {% capture ASSET_PATH %}{{ BASE_PATH }}/assets/themes/{{ layout.th
