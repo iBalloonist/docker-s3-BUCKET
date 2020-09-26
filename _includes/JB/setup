@@ -1,3 +1,8 @@
 {% capture jbcache %}
   <!--
-  - Dynami
+  - Dynamically set liquid variables for working with URLs/paths
+  -->
+  {% if site.JB.setup.provider == "custom" %}
+    {% include custom/setup %}
+  {% else %}
+    {% if site.safe and site.JB.BASE_PATH and sit
