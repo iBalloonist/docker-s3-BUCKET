@@ -11,4 +11,10 @@ Usage:
   
   Notes: 
     Tags can be either a Hash of tag objects (hashes) or an Array of tag-names (strings).
-    The encapsulating 'if' statement checks whether tags_list 
+    The encapsulating 'if' statement checks whether tags_list is a Hash or Array.
+    site.tags is a Hash while page.tags is an array.
+    
+  This helper can be seen in use at: ../_layouts/default.html
+-->{% endcomment %}
+
+{% if site.JB.tags
