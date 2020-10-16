@@ -6,4 +6,9 @@ Usage:
   example:
     <ul>
   	  {% assign tags_list = site.tags %}  
-  	  {% i
+  	  {% include JB/tags_list %}
+  	</ul>
+  
+  Notes: 
+    Tags can be either a Hash of tag objects (hashes) or an Array of tag-names (strings).
+    The encapsulating 'if' statement checks whether tags_list 
