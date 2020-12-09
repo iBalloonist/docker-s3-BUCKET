@@ -12,4 +12,19 @@ module Jekyll
   #
   class Post
     def inspect
-      "#Jekyll:Post @i
+      "#Jekyll:Post @id=#{self.id.inspect}"
+    end
+  end
+  
+  class Page
+    def inspect
+      "#Jekyll:Page @name=#{self.name.inspect}"
+    end
+  end
+  
+end # Jekyll
+  
+module Jekyll
+  module DebugFilter
+    
+    def de
