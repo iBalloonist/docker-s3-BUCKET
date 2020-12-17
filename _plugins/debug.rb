@@ -35,4 +35,4 @@ module Jekyll
   end # DebugFilter
 end # Jekyll
 
-Liquid::Template.register_filter(J
+Liquid::Template.register_filter(Jekyll::DebugFilter)
