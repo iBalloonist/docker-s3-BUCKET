@@ -24,4 +24,6 @@ img{max-width:100%;width:auto\9;height:auto;vertical-align:middle;border:0;-ms-i
 #map_canvas img,.google-maps img{max-width:none;}
 button,input,select,textarea{margin:0;font-size:100%;vertical-align:middle;}
 button,input{*overflow:visible;line-height:normal;}
-button::-moz-focus-inner,input::-moz-focus-inner{padding:0;border:0;
+button::-moz-focus-inner,input::-moz-focus-inner{padding:0;border:0;}
+button,html input[type="button"],input[type="reset"],input[type="submit"]{-webkit-appearance:button;cursor:pointer;}
+label,select,button,input[type="button"],input[type="reset"],input[type="submit"],input[type="radio"],inpu
