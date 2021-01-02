@@ -38,4 +38,7 @@ a:hover{color:#005580;text-decoration:underline;}
 .img-circle{-webkit-border-radius:500px;-moz-border-radius:500px;border-radius:500px;}
 .row{margin-left:-20px;*zoom:1;}.row:before,.row:after{display:table;content:"";line-height:0;}
 .row:after{clear:both;}
-[class*="span"]{float:
+[class*="span"]{float:left;min-height:1px;margin-left:20px;}
+.container,.navbar-static-top .container,.navbar-fixed-top .container,.navbar-fixed-bottom .container{width:940px;}
+.span12{width:940px;}
+.span11
