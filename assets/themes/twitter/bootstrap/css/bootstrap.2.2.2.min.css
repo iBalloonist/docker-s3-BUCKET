@@ -118,4 +118,10 @@ strong{font-weight:bold;}
 em{font-style:italic;}
 cite{font-style:normal;}
 .muted{color:#999999;}
-a.muted:hover{color:#8080
+a.muted:hover{color:#808080;}
+.text-warning{color:#c09853;}
+a.text-warning:hover{color:#a47e3c;}
+.text-error{color:#b94a48;}
+a.text-error:hover{color:#953b39;}
+.text-info{color:#3a87ad;}
+a.text-info:hover{color:#2d6
