@@ -170,4 +170,7 @@ pre code{padding:0;color:inherit;white-space:pre;white-space:pre-wrap;background
 .pre-scrollable{max-height:340px;overflow-y:scroll;}
 .label,.badge{display:inline-block;padding:2px 4px;font-size:11.844px;font-weight:bold;line-height:14px;color:#ffffff;vertical-align:baseline;white-space:nowrap;text-shadow:0 -1px 0 rgba(0, 0, 0, 0.25);background-color:#999999;}
 .label{-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
-.badge{padding-left:9px;paddi
+.badge{padding-left:9px;padding-right:9px;-webkit-border-radius:9px;-moz-border-radius:9px;border-radius:9px;}
+.label:empty,.badge:empty{display:none;}
+a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
+.label-impor
