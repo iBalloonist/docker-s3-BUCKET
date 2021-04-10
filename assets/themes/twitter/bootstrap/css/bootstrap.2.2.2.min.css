@@ -179,4 +179,7 @@ a.label:hover,a.badge:hover{color:#ffffff;text-decoration:none;cursor:pointer;}
 .label-warning[href],.badge-warning[href]{background-color:#c67605;}
 .label-success,.badge-success{background-color:#468847;}
 .label-success[href],.badge-success[href]{background-color:#356635;}
-.l
+.label-info,.badge-info{background-color:#3a87ad;}
+.label-info[href],.badge-info[href]{background-color:#2d6987;}
+.label-inverse,.badge-inverse{background-color:#333333;}
+.label-inverse[href],.badge-inv
