@@ -239,4 +239,6 @@ textarea,input[type="text"],input[type="password"],input[type="datetime"],input[
 input[type="radio"],input[type="checkbox"]{margin:4px 0 0;*margin-top:0;margin-top:1px \9;line-height:normal;}
 input[type="file"],input[type="image"],input[type="submit"],input[type="reset"],input[type="button"],input[type="radio"],input[type="checkbox"]{width:auto;}
 select,input[type="file"]{height:30px;*margin-top:4px;line-height:30px;}
-select{width:220px;border:1px solid #cccccc;background-color:#ff
+select{width:220px;border:1px solid #cccccc;background-color:#ffffff;}
+select[multiple],select[size]{height:auto;}
+select:focus,input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus{outline:thin dotted #333;outline:5px auto
