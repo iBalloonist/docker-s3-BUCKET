@@ -247,4 +247,6 @@ select:focus,input[type="file"]:focus,input[type="radio"]:focus,input[type="chec
 .uneditable-textarea{width:auto;height:auto;}
 input:-moz-placeholder,textarea:-moz-placeholder{color:#999999;}
 input:-ms-input-placeholder,textarea:-ms-input-placeholder{color:#999999;}
-input:
+input::-webkit-input-placeholder,textarea::-webkit-input-placeholder{color:#999999;}
+.radio,.checkbox{min-height:20px;padding-left:20px;}
+.radio input[type="radio"],.checkbox input[type="che
