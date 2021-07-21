@@ -255,4 +255,8 @@ input::-webkit-input-placeholder,textarea::-webkit-input-placeholder{color:#9999
 .radio.inline+.radio.inline,.checkbox.inline+.checkbox.inline{margin-left:10px;}
 .input-mini{width:60px;}
 .input-small{width:90px;}
-.input-medium{width:
+.input-medium{width:150px;}
+.input-large{width:210px;}
+.input-xlarge{width:270px;}
+.input-xxlarge{width:530px;}
+input[class*="span"],select[class*="span"],textarea[class*="span"],.uneditable-input[class*="span"],.row-f
