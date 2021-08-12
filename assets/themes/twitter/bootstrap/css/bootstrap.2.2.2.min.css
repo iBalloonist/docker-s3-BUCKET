@@ -274,4 +274,6 @@ input.span5, textarea.span5, .uneditable-input.span5{width:366px;}
 input.span4, textarea.span4, .uneditable-input.span4{width:286px;}
 input.span3, textarea.span3, .uneditable-input.span3{width:206px;}
 input.span2, textarea.span2, .uneditable-input.span2{width:126px;}
-input.span1, textar
+input.span1, textarea.span1, .uneditable-input.span1{width:46px;}
+.controls-row{*zoom:1;}.controls-row:before,.controls-row:after{display:table;content:"";line-height:0;}
+.controls-row:after{clea
