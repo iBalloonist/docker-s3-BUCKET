@@ -328,4 +328,6 @@ input.search-query{padding-right:14px;padding-right:4px \9;padding-left:14px;pad
 .form-search label,.form-inline label,.form-search .btn-group,.form-inline .btn-group{display:inline-block;}
 .form-search .input-append,.form-inline .input-append,.form-search .input-prepend,.form-inline .input-prepend{margin-bottom:0;}
 .form-search .radio,.form-search .checkbox,.form-inline .radio,.form-inline .checkbox{padding-left:0;margin-bottom:0;vertical-align:middle;}
-.form-search .radio input[type="radio"],.form-search .checkbox input[type="checkbox"],.form-inline .r
+.form-search .radio input[type="radio"],.form-search .checkbox input[type="checkbox"],.form-inline .radio input[type="radio"],.form-inline .checkbox input[type="checkbox"]{float:left;margin-right:3px;margin-left:0;}
+.control-group{margin-bottom:10px;}
+legend+.control-group{margin-top
