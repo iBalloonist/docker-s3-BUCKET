@@ -351,4 +351,6 @@ legend+.control-group{margin-top:20px;-webkit-margin-top-collapse:separate;}
 .btn-small [class^="icon-"],.btn-small [class*=" icon-"]{margin-top:0;}
 .btn-mini [class^="icon-"],.btn-mini [class*=" icon-"]{margin-top:-1px;}
 .btn-mini{padding:0 6px;font-size:10.5px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;}
-.btn-blo
+.btn-block{display:block;width:100%;padding-left:0;padding-right:0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+.btn-block+.btn-block{margin-top:5px;}
+inp
