@@ -399,4 +399,8 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .icon-cog{background-position:-432px 0;}
 .icon-trash{background-position:-456px 0;}
 .icon-home{background-position:0 -24px;}
-.icon
+.icon-file{background-position:-24px -24px;}
+.icon-time{background-position:-48px -24px;}
+.icon-road{background-position:-72px -24px;}
+.icon-download-alt{background-position:-96px -24px;}
+.icon-download{background-po
