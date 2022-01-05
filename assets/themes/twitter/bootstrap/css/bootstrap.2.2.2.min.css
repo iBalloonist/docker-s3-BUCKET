@@ -394,4 +394,9 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .icon-remove{background-position:-312px 0;}
 .icon-zoom-in{background-position:-336px 0;}
 .icon-zoom-out{background-position:-360px 0;}
-.icon-off{bac
+.icon-off{background-position:-384px 0;}
+.icon-signal{background-position:-408px 0;}
+.icon-cog{background-position:-432px 0;}
+.icon-trash{background-position:-456px 0;}
+.icon-home{background-position:0 -24px;}
+.icon
