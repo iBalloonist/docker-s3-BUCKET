@@ -428,4 +428,8 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .icon-bold{background-position:-167px -48px;}
 .icon-italic{background-position:-192px -48px;}
 .icon-text-height{background-position:-216px -48px;}
-.icon-text-width{backgro
+.icon-text-width{background-position:-240px -48px;}
+.icon-align-left{background-position:-264px -48px;}
+.icon-align-center{background-position:-288px -48px;}
+.icon-align-right{background-position:-312px -48px;}
+.icon-align-j
