@@ -452,4 +452,8 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .icon-play{background-position:-264px -72px;}
 .icon-pause{background-position:-288px -72px;}
 .icon-stop{background-position:-312px -72px;}
-.icon-forward{background-p
+.icon-forward{background-position:-336px -72px;}
+.icon-fast-forward{background-position:-360px -72px;}
+.icon-step-forward{background-position:-384px -72px;}
+.icon-eject{background-position:-408px -72px;}
+.icon-chevron-left{background-position:
