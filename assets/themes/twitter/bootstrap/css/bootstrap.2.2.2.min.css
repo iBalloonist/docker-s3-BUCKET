@@ -456,4 +456,8 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .icon-fast-forward{background-position:-360px -72px;}
 .icon-step-forward{background-position:-384px -72px;}
 .icon-eject{background-position:-408px -72px;}
-.icon-chevron-left{background-position:
+.icon-chevron-left{background-position:-432px -72px;}
+.icon-chevron-right{background-position:-456px -72px;}
+.icon-plus-sign{background-position:0 -96px;}
+.icon-minus-sign{background-position:-24px -96px;}
+.icon-remove-sign{backgro
