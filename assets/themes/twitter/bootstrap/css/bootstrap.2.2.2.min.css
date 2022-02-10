@@ -460,4 +460,8 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .icon-chevron-right{background-position:-456px -72px;}
 .icon-plus-sign{background-position:0 -96px;}
 .icon-minus-sign{background-position:-24px -96px;}
-.icon-remove-sign{backgro
+.icon-remove-sign{background-position:-48px -96px;}
+.icon-ok-sign{background-position:-72px -96px;}
+.icon-question-sign{background-position:-96px -96px;}
+.icon-info-sign{background-position:-120px -96px;}
+.icon-screenshot{backgrou
