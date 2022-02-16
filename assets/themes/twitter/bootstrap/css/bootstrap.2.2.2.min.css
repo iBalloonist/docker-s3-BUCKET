@@ -494,4 +494,8 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .icon-chevron-down{background-position:-313px -119px;}
 .icon-retweet{background-position:-336px -120px;}
 .icon-shopping-cart{background-position:-360px -120px;}
-.icon-folder-close{background-position:-384px 
+.icon-folder-close{background-position:-384px -120px;}
+.icon-folder-open{background-position:-408px -120px;width:16px;}
+.icon-resize-vertical{background-position:-432px -119px;}
+.icon-resize-horizontal{background-position:-456px -118px;}
+.icon-hdd{backgro
