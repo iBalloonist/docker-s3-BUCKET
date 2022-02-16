@@ -487,4 +487,7 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .icon-warning-sign{background-position:-144px -120px;}
 .icon-plane{background-position:-168px -120px;}
 .icon-calendar{background-position:-192px -120px;}
-.icon-random{b
+.icon-random{background-position:-216px -120px;width:16px;}
+.icon-comment{background-position:-240px -120px;}
+.icon-magnet{background-position:-264px -120px;}
+.icon-chevron-up{background-position:-288px 
