@@ -505,4 +505,8 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .icon-thumbs-up{background-position:-96px -144px;}
 .icon-thumbs-down{background-position:-120px -144px;}
 .icon-hand-right{background-position:-144px -144px;}
-.icon-hand-left{background-position:-168px -144p
+.icon-hand-left{background-position:-168px -144px;}
+.icon-hand-up{background-position:-192px -144px;}
+.icon-hand-down{background-position:-216px -144px;}
+.icon-circle-arrow-right{background-position:-240px -144px;}
+.icon-circle-arrow-left{b
