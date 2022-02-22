@@ -512,4 +512,9 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .icon-circle-arrow-left{background-position:-264px -144px;}
 .icon-circle-arrow-up{background-position:-288px -144px;}
 .icon-circle-arrow-down{background-position:-312px -144px;}
-.icon-globe{background-position:-336px
+.icon-globe{background-position:-336px -144px;}
+.icon-wrench{background-position:-360px -144px;}
+.icon-tasks{background-position:-384px -144px;}
+.icon-filter{background-position:-408px -144px;}
+.icon-briefcase{background-position:-432px -144px;}
+.icon-full
