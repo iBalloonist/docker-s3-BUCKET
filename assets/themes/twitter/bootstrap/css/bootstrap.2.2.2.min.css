@@ -541,4 +541,7 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .btn-group.open .btn.dropdown-toggle{background-color:#e6e6e6;}
 .btn-group.open .btn-primary.dropdown-toggle{background-color:#0044cc;}
 .btn-group.open .btn-warning.dropdown-toggle{background-color:#f89406;}
-.btn-group.open .btn-danger.dropdown-toggle{background-colo
+.btn-group.open .btn-danger.dropdown-toggle{background-color:#bd362f;}
+.btn-group.open .btn-success.dropdown-toggle{background-color:#51a351;}
+.btn-group.open .btn-info.dropdown-toggle{background-color:#2f96b4;}
+.btn-group.open .b
