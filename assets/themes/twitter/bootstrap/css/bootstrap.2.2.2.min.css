@@ -544,4 +544,6 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .btn-group.open .btn-danger.dropdown-toggle{background-color:#bd362f;}
 .btn-group.open .btn-success.dropdown-toggle{background-color:#51a351;}
 .btn-group.open .btn-info.dropdown-toggle{background-color:#2f96b4;}
-.btn-group.open .b
+.btn-group.open .btn-inverse.dropdown-toggle{background-color:#222222;}
+.btn .caret{margin-top:8px;margin-left:0;}
+.btn-mini .caret,.btn-small .caret,.btn-large .caret{margin-top:
