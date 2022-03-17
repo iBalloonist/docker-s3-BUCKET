@@ -551,4 +551,6 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .dropup .btn-large .caret{border-bottom-width:5px;}
 .btn-primary .caret,.btn-warning .caret,.btn-danger .caret,.btn-info .caret,.btn-success .caret,.btn-inverse .caret{border-top-color:#ffffff;border-bottom-color:#ffffff;}
 .btn-group-vertical{display:inline-block;*display:inline;*zoom:1;}
-.btn-group-vertical>
+.btn-group-vertical>.btn{display:block;float:none;max-width:100%;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;}
+.btn-group-vertical>.btn+.btn{margin-left:0;margin-top:-1px;}
+.btn-group-vertical>.btn:firs
