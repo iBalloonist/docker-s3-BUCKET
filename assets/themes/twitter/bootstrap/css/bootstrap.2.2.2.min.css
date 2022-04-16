@@ -621,4 +621,6 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .tabs-right>.nav-tabs>li>a:hover{border-color:#eeeeee #eeeeee #eeeeee #dddddd;}
 .tabs-right>.nav-tabs .active>a,.tabs-right>.nav-tabs .active>a:hover{border-color:#ddd #ddd #ddd transparent;*border-left-color:#ffffff;}
 .nav>.disabled>a{color:#999999;}
-.nav>.disabled>a:hover{text-d
+.nav>.disabled>a:hover{text-decoration:none;background-color:transparent;cursor:default;}
+.navbar{overflow:visible;margin-bottom:20px;*position:relative;*z-index:2;}
+.navbar-inner{min-height:40px;padding-left:20px;padd
