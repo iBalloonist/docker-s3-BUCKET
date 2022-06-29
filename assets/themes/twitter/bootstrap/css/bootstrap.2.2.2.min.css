@@ -715,4 +715,6 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .pager li>a,.pager li>span{display:inline-block;padding:5px 14px;background-color:#fff;border:1px solid #ddd;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;}
 .pager li>a:hover{text-decoration:none;background-color:#f5f5f5;}
 .pager .next>a,.pager .next>span{float:right;}
-.pager .previous>a,.pager .previous>span{
+.pager .previous>a,.pager .previous>span{float:left;}
+.pager .disabled>a,.pager .disabled>a:hover,.pager .disabled>span{color:#999999;background-color:#fff;cursor:default;}
+.thumbnails{margin-left:-20px;list-style:none;*zoom:1;}.thumbnail
