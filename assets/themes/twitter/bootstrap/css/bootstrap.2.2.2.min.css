@@ -717,4 +717,8 @@ button.btn.btn-mini,input[type="submit"].btn.btn-mini{*padding-top:1px;*padding-
 .pager .next>a,.pager .next>span{float:right;}
 .pager .previous>a,.pager .previous>span{float:left;}
 .pager .disabled>a,.pager .disabled>a:hover,.pager .disabled>span{color:#999999;background-color:#fff;cursor:default;}
-.thumbnails{margin-left:-20px;list-style:none;*zoom:1;}.thumbnail
+.thumbnails{margin-left:-20px;list-style:none;*zoom:1;}.thumbnails:before,.thumbnails:after{display:table;content:"";line-height:0;}
+.thumbnails:after{clear:both;}
+.row-fluid .thumbnails{margin-left:0;}
+.thumbnails>li{float:left;margin-bottom:20px;margin-left:20px;}
+.th
