@@ -759,4 +759,6 @@ a.thumbnail:hover{border-color:#0088cc;-webkit-box-shadow:0 1px 4px rgba(0, 105,
 .media-object{display:block;}
 .media-heading{margin:0 0 5px;}
 .media .pull-left{margin-right:10px;}
-.media .pull-right{margin-left:10p
+.media .pull-right{margin-left:10px;}
+.media-list{margin-left:0;list-style:none;}
+.well{min-height:20px;padding:19px;margin-bottom:20px;background-color:#f5f5f5;border:1px solid #e3e3e3;-webkit-border-radius:4px;-moz-bord
