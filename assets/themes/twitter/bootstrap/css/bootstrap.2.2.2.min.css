@@ -754,4 +754,9 @@ a.thumbnail:hover{border-color:#0088cc;-webkit-box-shadow:0 1px 4px rgba(0, 105,
 .hero-unit{padding:60px;margin-bottom:30px;font-size:18px;font-weight:200;line-height:30px;color:inherit;background-color:#eeeeee;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;}.hero-unit h1{margin-bottom:0;font-size:60px;line-height:1;color:inherit;letter-spacing:-1px;}
 .hero-unit li{line-height:30px;}
 .media,.media-body{overflow:hidden;*overflow:visible;zoom:1;}
-.media,.media .media{
+.media,.media .media{margin-top:15px;}
+.media:first-child{margin-top:0;}
+.media-object{display:block;}
+.media-heading{margin:0 0 5px;}
+.media .pull-left{margin-right:10px;}
+.media .pull-right{margin-left:10p
