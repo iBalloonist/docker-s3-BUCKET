@@ -778,4 +778,5 @@ button.close{padding:0;cursor:pointer;background:transparent;border:0;-webkit-ap
 .visible-phone{display:none !important;}
 .visible-tablet{display:none !important;}
 .hidden-desktop{display:none !important;}
-.vi
+.visible-desktop{display:inherit !important;}
+@media (min-width:768px) and (max-width:979px){.hidden-desktop{display:inherit !important;} .visible-desktop{display:none !important ;} .visible-tablet{displa
