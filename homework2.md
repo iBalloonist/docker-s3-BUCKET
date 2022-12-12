@@ -10,4 +10,9 @@ This is in relation to the paper on predicting nonmelanoma skin
 cancer, [Wang et al.
 (2019)](https://doi.org/10.1001/jamadermatol.2019.2335).
 
-1. If a test has sensitivity = 80% and specificity 80% 
+1. If a test has sensitivity = 80% and specificity 80% and the
+   prevalence of the disease is 9/100,000, what is the positive
+   predictive value (aka "precision") of the test?
+
+2. Suppose sensitivity = specificity. What would they have to be to
+   
