@@ -15,4 +15,9 @@ cancer, [Wang et al.
    predictive value (aka "precision") of the test?
 
 2. Suppose sensitivity = specificity. What would they have to be to
-   
+   achieve positive predictive value = 50% when prevalence is
+   9/100,000?
+
+3. Comment on these results in relation to the precision values
+   provided in Table 2 of [Wang et al.
+   (2019
