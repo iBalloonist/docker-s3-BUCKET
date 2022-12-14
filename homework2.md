@@ -20,4 +20,4 @@ cancer, [Wang et al.
 
 3. Comment on these results in relation to the precision values
    provided in Table 2 of [Wang et al.
-   (2019
+   (2019)](https://doi.org/10.1001/jamadermatol.2019.2335).
