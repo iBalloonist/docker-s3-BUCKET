@@ -17,4 +17,8 @@ Sometimes it is difficult to get access to papers (such as those among
 the [reading assignments](schedule.html)), particularly from home.
 Here are strategies I use:
 
-- Search for the paper on [Google scholar](https://scholar.google.
+- Search for the paper on [Google scholar](https://scholar.google.com).
+  Click on "All ___ versions", and you may find an open version of the article.
+
+- Install the [unpaywall browser extension](https://unpaywall.org/products/extension),
+  which ma
