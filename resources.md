@@ -13,4 +13,8 @@ description: Resources for BMI 881, Biomedical data science scholarly literature
 
 ### Accessing scientific papers
 
-Sometimes it is difficult to get access to pa
+Sometimes it is difficult to get access to papers (such as those among
+the [reading assignments](schedule.html)), particularly from home.
+Here are strategies I use:
+
+- Search for the paper on [Google scholar](https://scholar.google.
