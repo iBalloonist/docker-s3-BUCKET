@@ -25,4 +25,9 @@ Here are strategies I use:
 
 - Paste `ezproxy.library.wisc.edu` into the URL for the article.
   You'll get to a page asking for your NetID and password, but this
-  could then 
+  could then give you immediate access to the article.
+
+  For example, with the url
+  <https://doi.org/10.1198/000313002317572790>, you would instead use
+  <http://doi.org.ezproxy.library.wisc.edu/10.1198/000313002317572790>.
+  (Note 
