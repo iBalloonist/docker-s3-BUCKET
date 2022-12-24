@@ -30,4 +30,8 @@ Here are strategies I use:
   For example, with the url
   <https://doi.org/10.1198/000313002317572790>, you would instead use
   <http://doi.org.ezproxy.library.wisc.edu/10.1198/000313002317572790>.
-  (Note 
+  (Note the use of `http` rather than `https`.)
+
+- Try using the [GlobalProtect VPN for
+  UW-Madison](https://kb.wisc.edu/helpdesk/page.php?id=68164). Your
+  IP addresss might look like you're on
