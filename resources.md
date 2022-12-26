@@ -39,4 +39,11 @@ Here are strategies I use:
 
 - [Sci-Hub](https://sci-hub.se) provides pirated versions of many
   journal articles, but this is _not_ an accepted way to get access to
-  copyrighted mate
+  copyrighted material.
+
+- PDFs for this course will be posted on the [Canvas site](https://canvas.wisc.edu)
+
+### Tables &rarr; Graphs
+
+- [Dotplot graph
+  example](https://kbroman.org/blog/2014/10/29/improved-graphs-of-car-crash-stats/
