@@ -34,4 +34,9 @@ Here are strategies I use:
 
 - Try using the [GlobalProtect VPN for
   UW-Madison](https://kb.wisc.edu/helpdesk/page.php?id=68164). Your
-  IP addresss might look like you're on
+  IP addresss might look like you're on campus, and so you might get
+  access.
+
+- [Sci-Hub](https://sci-hub.se) provides pirated versions of many
+  journal articles, but this is _not_ an accepted way to get access to
+  copyrighted mate
