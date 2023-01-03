@@ -46,4 +46,5 @@ Here are strategies I use:
 ### Tables &rarr; Graphs
 
 - [Dotplot graph
-  example](https://kbroman.org/blog/2014/10/29/improved-graphs-of-car-crash-stats/
+  example](https://kbroman.org/blog/2014/10/29/improved-graphs-of-car-crash-stats/)
+  on Karl's blog
