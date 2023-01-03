@@ -7,4 +7,5 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |
 | :------ | -- | :----- |
-| 9 Sep   |    | [Course introduction ![pdf logo](icons/pdf-icon.png)](slides/00_intro_slides.pdf) (and see [resources]
+| 9 Sep   |    | [Course introduction ![pdf logo](icons/pdf-icon.png)](slides/00_intro_slides.pdf) (and see [resources](resources.html)) |
+| 14 Sep   |    | [Tables &rarr; graphs](slides/01a_gelman_slides.pdf): [Gelman et al. (2002)](https://doi.org/10.1198/000313002317572790) [![pdf logo](icons/pd
