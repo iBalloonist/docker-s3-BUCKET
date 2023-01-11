@@ -16,4 +16,6 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 30 Sep  |    | **No class meeting** |
 | 5 Oct  |    | Skin cancer: [Wang et al. (2019)](https://doi.org/10.1001/jamadermatol.2019.2335)
 | 7 Oct   |    | **No class meeting** (**[homework 1](homework1.html) due)** |
-| 12 Oct   |    | Hormone replacement therapy: [Hern&aacute;n et al. (200
+| 12 Oct   |    | Hormone replacement therapy: [Hern&aacute;n et al. (2008)](https://doi.org/10.1097/EDE.0b013e3181875e61) |
+| 14 Oct   |    | Hormone replacement therapy discussion and response:
+|         |    | [Hoover (2008)](https://doi.org/10.1097/EDE.0b
