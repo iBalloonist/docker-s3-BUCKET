@@ -24,4 +24,6 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 | 26 Oct    |  | Propensity scores: [Rosenbaum and Rubin (1983)](http://doi.org/10.1093/biomet/70.1.41) |
 | 28 Oct    |  | **No class meeting** |
 | 2 Nov    |  | Causal inference: [Pearl (2009)](http://doi.org/10.1214/09-SS057)  |
-| 
+| 4 Nov    |  | **No class meeting** (**[homework 2](homework2.html) due)** |
+| 9 Nov     |  | OHDSI: [Madigan et al. (2013)](https://doi.org/10.1093/aje/kwt010) |
+| 11 Nov     |  | **No class
