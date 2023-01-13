@@ -21,4 +21,7 @@ description: Schedule and readings for BMI 881, Biomedical data science scholarl
 |         |    | [Hoover (2008)](https://doi.org/10.1097/EDE.0b013e318188e21d); [Stampfer (2008)](https://doi.org/10.1097/EDE.0b013e318188442e); [Prentice (2008)](https://doi.org/10.1097/EDE.0b013e318188e83b); [Hern&aacute;n and Robins (2008)](https://doi.org/10.1097/EDE.0b013e318188e85f); [Willett et al. (2008)](https://doi.org/10.1097/EDE.0b013e318188e84e) |
 | 19 Oct |  | Mammography: [Berry (1998)](https://doi.org/10.1093/jnci/90.19.1431), [Kopans and Halpern (1999)](https://doi.org/10.1093/jnci/91.4.382) |
 | 21 Oct    |  | **No class meeting** |
-| 26 Oct    |  | Propensity scores: [Rosenbaum and Rubin (
+| 26 Oct    |  | Propensity scores: [Rosenbaum and Rubin (1983)](http://doi.org/10.1093/biomet/70.1.41) |
+| 28 Oct    |  | **No class meeting** |
+| 2 Nov    |  | Causal inference: [Pearl (2009)](http://doi.org/10.1214/09-SS057)  |
+| 
