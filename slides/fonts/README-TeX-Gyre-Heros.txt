@@ -280,3 +280,78 @@ lcommaaccent lcommaaccent.sc Ldot ldot ldot.sc Ldotbelow ldotbelow
 ldotbelow.sc Ldotbelowmacron ldotbelowmacron ldotbelowmacron.sc leaf less
 lessequal lessorequalslant linebelow linebelowcomb lira logicalnot longs
 lozenge lscript Lslash lslash lslash.sc Ltilde ltilde ltilde.sc M m m.sc
+Macron macron Macron.alt macron.alt macron.dup macron.ts1 macronbelow
+macronbelowcomb Macroncomb macroncomb married Mdotbelow mdotbelow
+mdotbelow.sc mho minus minusplus Mu mu mu.alt multiply musicalnote N n
+n.sc Nacute nacute nacute.sc naira nbspace Ncaron ncaron ncaron.sc
+Ncedilla ncedilla Ncommaaccent ncommaaccent ncommaaccent.sc Ndotaccent
+ndotaccent ndotaccent.sc Ndotbelow ndotbelow ndotbelow.sc nine
+nine.oldstyle nine.prop nine.taboldstyle notequal Ntilde ntilde ntilde.sc
+Nu nu numbersign numero O o o.sc Oacute oacute oacute.sc Obreve obreve
+obreve.sc Ocaron ocaron ocaron.sc Ocircumflex ocircumflex ocircumflex.sc
+Ocircumflexacute ocircumflexacute ocircumflexacute.sc Ocircumflexdotbelow
+ocircumflexdotbelow ocircumflexdotbelow.sc Ocircumflexgrave
+ocircumflexgrave ocircumflexgrave.sc Ocircumflexhookabove
+ocircumflexhookabove ocircumflexhookabove.sc Ocircumflextilde
+ocircumflextilde ocircumflextilde.sc Odblgrave odblgrave odblgrave.sc
+Odieresis odieresis odieresis.sc Odotbelow odotbelow odotbelow.sc OE oe
+OE.dup oe.dup oe.sc ogonek Ograve ograve ograve.sc ohm Ohookabove
+ohookabove ohookabove.sc Ohorn ohorn ohorn.sc Ohornacute ohornacute
+ohornacute.sc Ohorndotbelow ohorndotbelow ohorndotbelow.sc Ohorngrave
+ohorngrave ohorngrave.sc Ohornhookabove ohornhookabove ohornhookabove.sc
+Ohorntilde ohorntilde ohorntilde.sc Ohungarumlaut ohungarumlaut
+ohungarumlaut.sc Omacron omacron omacron.sc Omega omega Omicron omicron
+one one.oldstyle one.prop one.superior one.taboldstyle onehalf onequarter
+Oogonek oogonek oogonek.sc Oogonekacute oogonekacute oogonekacute.sc
+openbullet ordfeminine ordmasculine Orogate orogate orogate.sc Oslash
+oslash Oslash.dup oslash.dup oslash.sc Oslashacute oslashacute
+oslashacute.sc Otilde otilde otilde.sc P p p.sc paragraph paragraph.alt
+parenleft parenright partialdiff percent period periodcentered permyriad
+perthousand perthousandzero peso Phi phi phi.alt Pi pi pi.alt plus
+plusminus Psi psi published Q q q.sc question questiondown
+quillbracketleft quillbracketright quotedbl quotedblbase quotedblbase.ts1
+quotedblleft quotedblright quoteleft quoteleft.dup quoteright
+quoteright.dup quotesinglbase quotesinglbase.ts1 quotesingle
+quotesingle.ts1 R r r.sc Racute racute racute.sc radical Rcaron rcaron
+rcaron.sc Rcedilla rcedilla Rcommaaccent rcommaaccent rcommaaccent.sc
+Rdblgrave rdblgrave rdblgrave.sc Rdotaccent rdotaccent rdotaccent.sc
+Rdotbelow rdotbelow rdotbelow.sc Rdotbelowmacron rdotbelowmacron
+rdotbelowmacron.sc recipe referencemark registered registered.alt Rho rho
+rho.alt Ring ring Ringacute ringacute Ringcomb ringcomb ringhalfleft
+ringhalfright S s s.sc Sacute sacute sacute.sc Scaron scaron scaron.sc
+Scedilla scedilla scedilla.sc schwa Scircumflex scircumflex
+scircumflex.sc Scommaaccent scommaaccent scommaaccent.sc Sdotbelow
+sdotbelow sdotbelow.sc section semicolon servicemark seven seven.oldstyle
+seven.prop seven.taboldstyle sfthyphen Sigma sigma sigma1 six
+six.oldstyle six.prop six.taboldstyle slash space star sterling summation
+suppress T t t.sc Tau tau Tcaron tcaron tcaron.sc Tcedilla tcedilla
+tcedilla.sc Tcommaaccent tcommaaccent tcommaaccent.sc Tdieresis tdieresis
+tdieresis.sc Tdotbelow tdotbelow tdotbelow.sc Theta theta theta.alt Thorn
+thorn thorn.sc three three.oldstyle three.prop three.superior
+three.taboldstyle threequarters threequartersemdash tie tieaccentcapital
+tieaccentcapital.new tieaccentlowercase tieaccentlowercase.new Tilde
+tilde tilde.dup tildebelow tildebelowcomb Tildecomb tildecomb tildelow
+Tlinebelow tlinebelow tlinebelow.sc trademark Ttilde ttilde ttilde.sc
+twelveudash two two.oldstyle two.prop two.superior two.taboldstyle U u
+u.sc Uacute uacute uacute.sc Ubreve ubreve ubreve.sc Ubrevebelowinverted
+ubrevebelowinverted ubrevebelowinverted.sc Ucaron ucaron ucaron.sc
+Ucircumflex ucircumflex ucircumflex.sc Udblgrave udblgrave udblgrave.sc
+Udieresis udieresis udieresis.sc Udieresisacute udieresisacute
+udieresisacute.sc Udieresiscaron udieresiscaron udieresiscaron.sc
+Udieresisgrave udieresisgrave udieresisgrave.sc Udotbelow udotbelow
+udotbelow.sc Ugrave ugrave ugrave.sc Uhookabove uhookabove uhookabove.sc
+Uhorn uhorn uhorn.sc Uhornacute uhornacute uhornacute.sc Uhorndotbelow
+uhorndotbelow uhorndotbelow.sc Uhorngrave uhorngrave uhorngrave.sc
+Uhornhookabove uhornhookabove uhornhookabove.sc Uhorntilde uhorntilde
+uhorntilde.sc Uhungarumlaut uhungarumlaut uhungarumlaut.sc Umacron
+umacron umacron.sc underscore undertie undertieinverted uni2010 uni2011
+uni2423 Uogonek uogonek uogonek.sc Upsilon upsilon Uring uring uring.sc
+Utilde utilde utilde.sc V v v.sc W w w.sc Wacute wacute wacute.sc
+Wcircumflex wcircumflex wcircumflex.sc Wdieresis wdieresis wdieresis.sc
+weierstrass Wgrave wgrave wgrave.sc won X x x.sc Xi xi Y y y.sc Yacute
+yacute yacute.sc Ycircumflex ycircumflex ycircumflex.sc Ydieresis
+ydieresis ydieresis.sc Ydotbelow ydotbelow ydotbelow.sc yen Ygrave ygrave
+ygrave.sc Yhookabove yhookabove yhookabove.sc Ytilde ytilde ytilde.sc Z z
+z.sc Zacute zacute zacute.sc Zcaron zcaron zcaron.sc Zdotaccent
+zdotaccent zdotaccent.sc Zdotbelow zdotbelow zdotbelow.sc zero
+zero.oldstyle zero.prop zero.slash zero.taboldstyle Zeta zeta
