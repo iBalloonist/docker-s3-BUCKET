@@ -194,3 +194,117 @@ restrictions.
        fonts/tfm/public/tex-gyre/qx-qhvcbi-sc.tfm
        fonts/tfm/public/tex-gyre/qx-qhvcr-sc.tfm
        fonts/tfm/public/tex-gyre/qx-qhvcri-sc.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvb.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvbi.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvr.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvri.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvb-sc.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvbi-sc.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvr-sc.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvri-sc.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvcb.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvcbi.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvcr.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvcri.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvcb-sc.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvcbi-sc.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvcr-sc.tfm
+       fonts/tfm/public/tex-gyre/rm-qhvcri-sc.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvb.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvbi.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvr.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvri.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvb-sc.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvbi-sc.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvr-sc.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvri-sc.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvcb.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvcbi.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvcr.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvcri.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvcb-sc.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvcbi-sc.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvcr-sc.tfm
+       fonts/tfm/public/tex-gyre/t5-qhvcri-sc.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvb.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvbi.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvr.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvri.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvb-sc.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvbi-sc.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvr-sc.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvri-sc.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvcb.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvcbi.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvcr.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvcri.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvcb-sc.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvcbi-sc.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvcr-sc.tfm
+       fonts/tfm/public/tex-gyre/texnansi-qhvcri-sc.tfm
+       fonts/tfm/public/tex-gyre/ts1-qhvb.tfm
+       fonts/tfm/public/tex-gyre/ts1-qhvbi.tfm
+       fonts/tfm/public/tex-gyre/ts1-qhvr.tfm
+       fonts/tfm/public/tex-gyre/ts1-qhvri.tfm
+       fonts/tfm/public/tex-gyre/ts1-qhvcb.tfm
+       fonts/tfm/public/tex-gyre/ts1-qhvcbi.tfm
+       fonts/tfm/public/tex-gyre/ts1-qhvcr.tfm
+       fonts/tfm/public/tex-gyre/ts1-qhvcri.tfm
+       fonts/type1/public/tex-gyre/qhvb.pfb
+       fonts/type1/public/tex-gyre/qhvb.pfm
+       fonts/type1/public/tex-gyre/qhvbi.pfb
+       fonts/type1/public/tex-gyre/qhvbi.pfm
+       fonts/type1/public/tex-gyre/qhvr.pfb
+       fonts/type1/public/tex-gyre/qhvr.pfm
+       fonts/type1/public/tex-gyre/qhvri.pfb
+       fonts/type1/public/tex-gyre/qhvri.pfm
+       fonts/type1/public/tex-gyre/qhvcb.pfb
+       fonts/type1/public/tex-gyre/qhvcb.pfm
+       fonts/type1/public/tex-gyre/qhvcbi.pfb
+       fonts/type1/public/tex-gyre/qhvcbi.pfm
+       fonts/type1/public/tex-gyre/qhvcr.pfb
+       fonts/type1/public/tex-gyre/qhvcr.pfm
+       fonts/type1/public/tex-gyre/qhvcri.pfb
+       fonts/type1/public/tex-gyre/qhvcri.pfm
+
+   2.2 tex/latex/tex-gyre/il2qhv.fd
+       tex/latex/tex-gyre/il2qhvc.fd
+       tex/latex/tex-gyre/l7xqhv.fd
+       tex/latex/tex-gyre/l7xqhvc.fd
+       tex/latex/tex-gyre/ly1qhv.fd
+       tex/latex/tex-gyre/ly1qhvc.fd
+       tex/latex/tex-gyre/ot1qhv.fd
+       tex/latex/tex-gyre/ot1qhvc.fd
+       tex/latex/tex-gyre/ot4qhv.fd
+       tex/latex/tex-gyre/ot4qhvc.fd
+       tex/latex/tex-gyre/qswiss.sty
+       tex/latex/tex-gyre/qxqhv.fd
+       tex/latex/tex-gyre/qxqhvc.fd
+       tex/latex/tex-gyre/t1qhv.fd
+       tex/latex/tex-gyre/t1qhvc.fd
+       tex/latex/tex-gyre/t5qhv.fd
+       tex/latex/tex-gyre/t5qhvc.fd
+       tex/latex/tex-gyre/tgheros.sty
+       tex/latex/tex-gyre/ts1qhv.fd
+       tex/latex/tex-gyre/ts1qhvc.fd
+   
+   2.3 doc/fonts/tex-gyre/MANIFEST-TeX-Gyre-Heros.txt
+       doc/fonts/tex-gyre/README-TeX-Gyre-Heros.txt
+       doc/fonts/tex-gyre/goadb999.nam
+       doc/fonts/tex-gyre/qhv-hist.txt
+       doc/fonts/tex-gyre/qhv-info.pdf
+       doc/fonts/tex-gyre/qhv-test.tex
+       doc/fonts/tex-gyre/qhv-test.pdf
+       doc/fonts/tex-gyre/qhvb.fea
+       doc/fonts/tex-gyre/qhvbi.fea
+       doc/fonts/tex-gyre/qhvcr.fea
+       doc/fonts/tex-gyre/qhvcri.fea
+       doc/fonts/tex-gyre/qhvcb.fea
+       doc/fonts/tex-gyre/qhvcbi.fea
+       doc/fonts/tex-gyre/qhvr.fea
+       doc/fonts/tex-gyre/qhvri.fea
+
+3. Files whose names need not be changed in derived works as requested
+   by clause 1 of GUST-FONT-LICENSE.txt
+
+       doc/fonts/tex-gyre/GUST-FONT-LICENSE.txt
