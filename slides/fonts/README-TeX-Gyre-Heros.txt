@@ -69,3 +69,214 @@ mistakes):
     "      oslash        611             556
     "      questiondown  611             556
   --------------------------------------------
+  qhvri    Lslash        556             628
+    "      dotlessi      278             222
+    "      exclamdown    333             278
+    "      lslash        222             305
+    "      questiondown  611             556
+  --------------------------------------------
+  qhcb     Lslash        501             618
+    "      lslash        228             402
+  --------------------------------------------
+  qhcbi    Lslash        501             618
+    "      lslash        228             402
+  --------------------------------------------
+  qhcr     Lslash        456             552
+    "      dotlessi      228             182
+    "      exclamdown    273             228
+    "      lslash        182             314
+    "      oslash        501             456
+    "      questiondown  501             456
+  --------------------------------------------
+  qhcri    Lslash        456             552
+    "      dotlessi      228             182
+    "      exclamdown    273             228
+    "      lslash        182             314
+    "      questiondown  501             456
+
+
+                           *   *   *
+
+The TeX Gyre project, following the Latin Modern project, aims at providing
+a rich collection of diacritical characters in the attempt to cover as many
+Latin-based scripts as possible. To our knowledge, the repertoire of
+characters covers all European languages as well as some other Latin-based
+alphabets such as Vietnamese and Navajo; at the request of users, recent
+extensions (following the enhancement of the Latin Modern collection)
+provide glyphs sufficient for typesetting of romanized transliterations
+of Arabic and Sanskrit scripts. We have frequently used the information
+presented by Michael Everson at the ``The Alphabets of Europe''
+( http://www.evertype.com/alphabets/ ) web site. If you know about European
+languages that are not covered completely or if some glyphs have apparently
+wrong shapes -- please let us know. Note, however, that Greek glyphs
+bear provisional character.
+
+The TeX Gyre Project was launched and is supported by TeX USERS GROUPS
+(CS TUG, DANTE eV, GUST, NTG, TUG India, TUG). Hearty thanks to the
+representatives of these groups and also to all people who helped with
+comments, ideas, remarks, bug reports, objections, hints, consolations, etc.
+
+                           *   *   *
+
+The TeX Gyre Heros family consists of 8 text fonts: regular,
+italic, bold and bold italic (qhvr, qhvri, qhvb, qhvbi)
+and the condensed variants (qhvcr, qhvcri, qhvcb, qhvcbi).
+
+The TeX Gyre Heros family can be freely used and distributed
+under the GUST Font License (see above) which is actually
+an instance of the LaTeX Project Public License
+(LPPL; see http://www.latex-project.org/lppl.txt ).
+
+                           *   *   *
+
+The package consists of the files in the directories conforming
+to the TeX Directory Structure (v. 1.1). The directories contain:
+
+doc/fonts/tex-gyre             this file, manifest, licence, test files,
+                               and, moreover, selected files used as input
+                               for generating OTFs (meant as a technical
+                               documentation of the OTFs)
+tex/latex/tex-gyre             support for LaTeX (*.fd and *.sty files,
+                               prepared by Marcin Woli\'nski)
+fonts/enc/dvips/tex-gyre       support for dvips (*.enc files);
+                               NOTE: all fonts of the TeX Gyre family
+                                 share the same *.enc files with
+                                 a few exceptions: CS, QX, and RM encodings
+                                 for TeX Gyre Cursor (monospace) differ
+                                 from the standard ones (because of the
+                                 compatibility with Computer Modern
+                                 typewriter fonts requested by users),
+                                 and, moreover, CS, L7x, QX and RM encodings
+                                 for TeX Gyre Chorus exploit exceptionally
+                                 the `lslash_lslash' ligature
+fonts/map/dvips/tex-gyre       support for dvips (*.map files)
+fonts/opentype/public/tex-gyre fonts in the OpenType format (*.otf files)
+fonts/type1/public/tex-gyre    PostScript (Type 1) font files and printer
+                               font metric files (*.pfb and *.pfm,
+                               respectively);
+fonts/tfm/public/tex-gyre      TeX font metric files (*.tfm) for:
+                               -- CS (CSTUG) encoding (cs-*.tfm),
+                               -- EC (Cork) encoding (ec-*.tfm),
+                               -- L7x (Lithuanian) encoding (l7x-*.tfm),
+                               -- QX (GUST) encoding (qx-*.tfm),
+                               -- RM (Regular Math or OT1) encoding (rm-*.tfm),
+                               -- Y&Y's TeX'n'ANSI aka LY1 encoding
+                                  (texnansi-*.tfm),
+                               -- T5 (Vietnamese) encoding (t5-*.tfm),
+                               -- Text Companion for EC fonts aka TS1
+                                  (ts1-*.tfm).
+                               Encodings CS, EC, L7x, QX, RM, Y&Y, and T5
+                               have their cap-small-caps counterparts
+                               (*-sc.tfm).
+fonts/afm/public/tex-gyre      Adobe font metric files (*.afm);
+
+Email contact: Bogus\l{}aw Jackowski aka Jacko, B_Jackowski@gust.org.pl
+
+                           *   *   *
+
+In ConTeXt, support for TeX Gyre Collection can be found in the typescript
+definition files:
+
+  ... /tex/context/base/type-enc.tex
+  ... /tex/context/base/type-syn.tex
+  ... /tex/context/base/type-exa.tex
+  ... /tex/context/base/type-map.tex
+
+Additional encoding and map files can be found under:
+
+  ... /texmf/fonts/map/pdftex/context
+  ... /texmf/fonts/enc/pdftex/context
+
+                           *   *   *
+
+All eight font files, qhvb, qhvbi, qhvr, qhvri, qhvcb, qhvcbi, qhvcr, qhvcri,
+contain the same repertoire of 1089 characters, namely (these are the names
+used in Type 1 fonts):
+
+A a a.sc Aacute aacute aacute.sc Abreve abreve abreve.sc Abreveacute
+abreveacute abreveacute.sc Abrevedotbelow abrevedotbelow
+abrevedotbelow.sc Abrevegrave abrevegrave abrevegrave.sc Abrevehookabove
+abrevehookabove abrevehookabove.sc Abrevetilde abrevetilde abrevetilde.sc
+Acaron acaron acaron.sc Acircumflex acircumflex acircumflex.sc
+Acircumflexacute acircumflexacute acircumflexacute.sc Acircumflexdotbelow
+acircumflexdotbelow acircumflexdotbelow.sc Acircumflexgrave
+acircumflexgrave acircumflexgrave.sc Acircumflexhookabove
+acircumflexhookabove acircumflexhookabove.sc Acircumflextilde
+acircumflextilde acircumflextilde.sc Acute acute acute.dup acute.ts1
+Acutecomb acutecomb Adblgrave adblgrave adblgrave.sc Adieresis adieresis
+adieresis.sc Adotbelow adotbelow adotbelow.sc AE ae AE.dup ae.dup ae.sc
+AEacute aeacute aeacute.sc Agrave agrave agrave.sc Ahookabove ahookabove
+ahookabove.sc Alpha alpha Amacron amacron amacron.sc ampersand anglearc
+angleleft angleright Aogonek aogonek aogonek.sc Aogonekacute aogonekacute
+aogonekacute.sc approxequal Aring aring aring.sc Aringacute aringacute
+aringacute.sc arrowdown arrowleft arrowright arrowup asciicircum
+asciitilde asterisk asteriskmath at at.alt Atilde atilde atilde.sc B b
+b.sc backslash baht bar Beta beta bigcircle blanksymbol born braceleft
+braceright bracketleft bracketright Breve breve breve.ts1 Breveacute
+breveacute brevebelow brevebelowcomb brevebelowinverted
+brevebelowinvertedcomb Brevecomb brevecomb Brevegrave brevegrave
+Brevehookabove brevehookabove Breveinverted breveinverted
+Breveinvertedcomb breveinvertedcomb Brevetilde brevetilde brokenbar
+bullet C c c.sc Cacute cacute cacute.sc Caron caron caron.ts1 Caroncomb
+caroncomb Ccaron ccaron ccaron.sc Ccedilla ccedilla ccedilla.sc
+Ccircumflex ccircumflex ccircumflex.sc Cdotaccent cdotaccent
+cdotaccent.sc cedilla cedilla.dup cent cent.oldstyle centigrade Chi chi
+Circumflex circumflex circumflex.dup Circumflexacute circumflexacute
+Circumflexcomb circumflexcomb Circumflexgrave circumflexgrave
+Circumflexhookabove circumflexhookabove Circumflextilde circumflextilde
+colon colonmonetary comma commaaccent commaaccentcomb copyleft copyright
+copyright.alt currency cwm cwmascender cwmcapital cyrBreve cyrbreve
+cyrFlex cyrflex D d d.sc dagger daggerdbl dblbracketleft dblbracketright
+dblGrave dblgrave dblgrave.ts1 dblGravecomb dblgravecomb dblverticalbar
+Dcaron dcaron dcaron.sc Dcroat dcroat dcroat.sc Ddotbelow ddotbelow
+ddotbelow.sc degree Delta delta diameter died Dieresis dieresis
+dieresis.dup dieresis.ts1 Dieresisacute dieresisacute Dieresiscaron
+dieresiscaron Dieresiscomb dieresiscomb Dieresisgrave dieresisgrave
+discount divide divorced Dlinebelow dlinebelow dlinebelow.sc dollar
+dollar.oldstyle dong Dotaccent dotaccent Dotaccentcomb dotaccentcomb
+dotbelow dotbelowcomb dotlessi dotlessi.sc dotlessj dotlessj.dup
+dotlessj.sc E e e.sc Eacute eacute eacute.sc Ebreve ebreve ebreve.sc
+Ecaron ecaron ecaron.sc Ecircumflex ecircumflex ecircumflex.sc
+Ecircumflexacute ecircumflexacute ecircumflexacute.sc Ecircumflexdotbelow
+ecircumflexdotbelow ecircumflexdotbelow.sc Ecircumflexgrave
+ecircumflexgrave ecircumflexgrave.sc Ecircumflexhookabove
+ecircumflexhookabove ecircumflexhookabove.sc Ecircumflextilde
+ecircumflextilde ecircumflextilde.sc Edblgrave edblgrave edblgrave.sc
+Edieresis edieresis edieresis.sc Edotaccent edotaccent edotaccent.sc
+Edotbelow edotbelow edotbelow.sc Egrave egrave egrave.sc Ehookabove
+ehookabove ehookabove.sc eight eight.oldstyle eight.prop
+eight.taboldstyle ell ellipsis Emacron emacron emacron.sc emdash endash
+Eng eng eng.sc Eogonek eogonek eogonek.sc Eogonekacute eogonekacute
+eogonekacute.sc Epsilon epsilon epsilon.alt equal Ereversed ereversed
+ereversed.sc estimated Eta eta Eth eth eth.sc Etilde etilde etilde.sc
+eturned eturned.sc Euro exclam exclamdown F f f.sc f_k ff ffi ffl fi five
+five.oldstyle five.prop five.taboldstyle fl florin four four.oldstyle
+four.prop four.taboldstyle fraction fraction.alt G g g.sc Gacute gacute
+gacute.sc Gamma gamma Gbreve gbreve gbreve.sc Gcaron gcaron gcaron.sc
+Gcedilla gcedilla Gcircumflex gcircumflex gcircumflex.sc Gcommaaccent
+gcommaaccent gcommaaccent.sc Gdotaccent gdotaccent gdotaccent.sc
+Germandbls germandbls germandbls.dup germandbls.sc gnaborretni Grave
+grave grave.ts1 Gravecomb gravecomb greater greaterequal
+greaterorequalslant guarani guillemotleft guillemotright guilsinglleft
+guilsinglright H h h.sc Hbar hbar hbar.sc Hbrevebelow hbrevebelow
+hbrevebelow.sc Hcircumflex hcircumflex hcircumflex.sc Hdieresis hdieresis
+hdieresis.sc Hdotbelow hdotbelow hdotbelow.sc Hookabove hookabove
+Hookabovecomb hookabovecomb horn Htilde htilde htilde.sc Hungarumlaut
+hungarumlaut hungarumlaut.ts1 Hungarumlautcomb hungarumlautcomb hyphen
+hyphen.alt hyphen.dup hyphen.prop hyphendbl hyphendbl.alt I i i.sc Iacute
+iacute iacute.sc Ibreve ibreve ibreve.sc Icaron icaron icaron.sc
+Icircumflex icircumflex icircumflex.sc Idblgrave idblgrave idblgrave.sc
+Idieresis idieresis idieresis.sc Idieresisacute idieresisacute
+idieresisacute.sc Idotaccent idotaccent.sc Idotbelow idotbelow
+idotbelow.sc Igrave igrave igrave.sc Ihookabove ihookabove ihookabove.sc
+IJ ij ij.sc Imacron imacron Imacron.alt imacron.alt imacron.alt.sc
+imacron.sc infinity interrobang Iogonek iogonek iogonek.sc Iogonekacute
+iogonekacute iogonekacute.sc Iota iota Itilde itilde itilde.sc J j j.sc
+J_caron Jacute jacute jacute.sc jcaron jcaron.sc Jcircumflex jcircumflex
+jcircumflex.sc K k k.sc Kappa kappa Kcedilla kcedilla Kcommaaccent
+kcommaaccent kcommaaccent.sc L l l.sc Lacute lacute lacute.sc Lambda
+lambda Lcaron lcaron lcaron.sc Lcedilla lcedilla Lcommaaccent
+lcommaaccent lcommaaccent.sc Ldot ldot ldot.sc Ldotbelow ldotbelow
+ldotbelow.sc Ldotbelowmacron ldotbelowmacron ldotbelowmacron.sc leaf less
+lessequal lessorequalslant linebelow linebelowcomb lira logicalnot longs
+lozenge lscript Lslash lslash lslash.sc Ltilde ltilde ltilde.sc M m m.sc
